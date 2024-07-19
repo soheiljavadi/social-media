@@ -1,8 +1,0 @@
-* text=auto
-
-# Force LF for specific files or directories
-*.sh text eol=lf
-*.po text eol=lf
-
-# Force CRLF for Windows batch scripts
-*.bat text eol=crlf
